@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new narrative of a fiery apparition seen on several days about Tower-Hill. Or, A just relation of the unjust proceedings of Mr. Sherman, Church-Warden of All-hollows Barkin, London. By Jonathon Sanders, lecturer of the said church</title>
+            <author>Sanders, Jonathan.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62232</idno>
+            <idno type="STC">Wing S746C</idno>
+            <idno type="STC">ESTC R7211</idno>
+            <idno type="EEBO-CITATION">99834898</idno>
+            <idno type="PROQUEST">99834898</idno>
+            <idno type="VID">39532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39532)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 475:13, 1897:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new narrative of a fiery apparition seen on several days about Tower-Hill. Or, A just relation of the unjust proceedings of Mr. Sherman, Church-Warden of All-hollows Barkin, London. By Jonathon Sanders, lecturer of the said church</title>
+                  <author>Sanders, Jonathan.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Identified as Wing S576 on UMI microfilm "Early English books, 1641-1700" reel 475.</note>
+                  <note>Reproductions of the originals in the University of Illinois (Urbana-Champaign Campus). Library (reel 475), and the Bodleian Library (reel 1897).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sherman, Edmund, 17th cent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:39532:1"/>
+            <pb n="1" facs="tcp:39532:1"/>
+            <head>A NEW NARRATIVE OF A Fiery Apparition Seen on ſeveral days about TOWER-HILL.</head>
+            <head type="sub">OR, A JUST RELATION Of the unjuſt Proceedings of Mr. <hi>Sherman,</hi> Church-Warden of <hi>All-hollows Barkin, London.</hi>
+            </head>
+            <byline>By JONATHAN SANDERS, Lecturer of the ſaid Church.</byline>
+            <p>OF Late the Common Prints have made a great pother about an Image erected in the Pariſh-Church of <hi>All-hallows Barkin, London,</hi> which Image was indited at the laſt Seſſions at the <hi>Old Baily.</hi> The upper Church-Warden without advice, and contrary to Order, was plea<g ref="char:EOLhyphen"/>ſed to plead Guilty; how far he may be concerned in the Guilt I am not to enquire, but ſince the proceeding may have afforded matter of Scandal to ſome diſtant perſons, I thought it was my duty to give ſome brief Account of the whole matter, which is as followeth.</p>
+            <p>On Sunday, <hi>March</hi> the Sixth, Mr. <hi>Sherman</hi> acquainted Dr. <hi>Hicks,</hi> and my Self, that there was an Inditement prefer'd at the <hi>Old Baily</hi> againſt the Church-Wardens for ſuffering an Image in the Church, not making any mention that the Doctor, or my Self, were concerned in the Inditement, though a Copy of it had been given him for that very purpoſe.</p>
+            <p>On Monday, the Seventh inſtant, Mr. <hi>Sherman</hi> took down from the Eaſt end of the Church the (pretended) Figure of the Archangel St. <hi>Michael,</hi>
+               <pb facs="tcp:39532:2"/>
+               <pb n="1" facs="tcp:39532:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:39532:3"/>by the aſſiſtance of the Clerk and Sexton, againſt the advice of the Doctor, and without the Knowledge or Conſent of the Veſtry.</p>
+            <p>He carried it on the ſame day to the Seſſions-houſe in the <hi>Old-Baily,</hi> and did (ſingly) plead Guilty to the Inditement; of which the Court took ſo little Notice that they would not accept his Fine.</p>
+            <p>This (pretendedly) ſuperſtitious Image was brought back the ſame Night, continued in the Church all Tueſday, and conveyed thence on Wedneſday. When Mr. <hi>Sherman</hi> being asked how he had diſpoſed of the ſame, and by what order, he replied, That he had ſent it to Mr. Sheriff <hi>Bethel</hi> by order of the Court.</p>
+            <p>On the Sunday following it was intended there ſhould be a Veſtry, which accordingly was called, in the Name of the Doctor, Mr. <hi>Sherman</hi> having given Order to the Clerk not to uſe the Name of the Church-Wardens.</p>
+            <p>After Sermon, the Veſtry being Aſſembled, Mr. <hi>Sherman</hi> refuſed to take his place as Church-Warden, telling them that the Poor wanted no Money, and that if in any thing he wanted their advice, he would call them when he thought fit; adding withall, That the Doctor had no power to hold a Veſtry without him, therefore he would not ſtay any longer, but told them (imperiouſly enough) that he diſſolved them.</p>
+            <p>The Veſtry, notwithſtanding this huffe, Sat and made ſome Orders, but they were no ſooner broke up but Mr. <hi>Sherman</hi> returned to the Church from his own Houſe with a part of (his God-ſon St. <hi>Michael</hi>) the Image, which with ſome vain-glory he burnt in the Veſtry.</p>
+            <p>On the Sunday following he cauſed another part to be laid on the Fire before Evening-Prayer. And whereas he then burnt a Wing of the Angel, affirming, that neither the Pope nor St. <hi>Peter</hi> ſhould have any piece of it; ſo after Sermon, before all the Gentlemen of the Veſtry then preſent, he pull'd ſome part of the Feet of it out of his Pocket, telling them, That as it could not fly, ſo neither ſhould it walk to <hi>Rome.</hi>
+            </p>
+            <p>But the Poor innocent Figure could not eſcape thus, for on the Sunday following, <hi>viz. March</hi> the the <hi>27th.</hi> he brought ſome other pieces of it in<g ref="char:EOLhyphen"/>to to Veſtry before Evening-Prayer, and burnt them in the preſence of Mr. <hi>Tomlyn,</hi> one of the Veſtry, who ſeriouſly asking him what he meant by ſo doing, Mr. <hi>Sherman</hi> replied, That he would not ſuffer any part of the Image to remain. All of theſe are moſt ſignificant Expreſſions of zeal againſt <hi>Popery.</hi>
+            </p>
+            <p>This is clearly the ſtate of the Affair as it hath been gradually car<g ref="char:EOLhyphen"/>ried on.</p>
+            <p>Now any one that hears of all this, together with the Confeſſion of the guilty Church-Warden, might be induced to think there were ſome great matter at the bottom of ſuch an Eminent proceeding.</p>
+            <p>Without doubt it hath made a great Noiſe not only in the City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> but alſo in places more remote whither the News of it hath been in<g ref="char:EOLhyphen"/>duſtriouſly carried for the Example of all other Church-Wardens, who, by one of our <hi>London</hi> Scriblers of Sedition, are adviſed to tread in the Steps of this worthy Gentleman. People are hereby made to believe that <hi>Popery</hi> is coming in apace among us, and that it muſt have its firſt entrance at <hi>All-hal<g ref="char:EOLhyphen"/>lows Barkin.</hi>
+            </p>
+            <p>But to prevent any ſuch miſtake, it is requiſite that they who take the trouble of reading this Paper would ſeriouſly conſider theſe few neceſſary Additions that I am to make.</p>
+            <p n="1">I. This Image (as they call it) was not a thing erected of late, but ſet
+<pb n="3" facs="tcp:39532:3"/>up in the Year 1658. or thereabout, and had no relation but to the Two Figures of <hi>Death</hi> and <hi>Time,</hi> betwixt which it might handſomly enough ſtand with its Trumpet and Motto, to mind Men of the laſt Judgment. It is ſtrange that no body could diſcover either the thing it ſelf, or the miſchief of it, till 1680. But the Wiſe man tells us their is a Time for all things, and it is the good luck of our diſcerning Church-Warden to hit it.</p>
+            <p n="2">II. This Figure was ſo far from having any reſpect or veneration paid to it, that few or none of the Inhabitants took any notice of it; and had the Doctor, or Lecturer, been asked Two or Three weeks before this buſtle, where it ſtood, I dare confidently pronounce they had been to ſeek for an anſwer.</p>
+            <p>But this alſo was the happy diſcovery of the Church-Warden, who knew when it was fit to prefer an Inditement, and hath the good fortune to know the Critical Time of One Year in Ten, when a thing is done <hi>pravae mentis,</hi> and when a Man bows to an Idol under the colour of adoring his God. Yet I muſt be ſo juſt to the Gentleman, as to proteſt that I don't think that in his own Conſcience he believes that any of us had this Image under any re<g ref="char:EOLhyphen"/>ligious Conſideration; and if he fails here, as moſt diſingeniouſly he doth, it is not to paſs for a failure in his Underſtanding, but for a voluntary, a de<g ref="char:EOLhyphen"/>ſigned, and a malicious Prevarication.</p>
+            <p>'Tis poſſible he may pleaſe himſelf with the delightfull apprehenſion of gratifying ſome one party of men; but then he ought to remember, that he that ſells his Neighbor's Fame for a little unſavory popular Breath, will in the concluſion gain nothing but Infamy and Diſgrace.</p>
+            <p>Every ſober Man will allow the liberty of ſaying this, when he may know that there is not a more ſerious and regularly-devout Pariſh in the City of <hi>London</hi> than this of <hi>All-hallows Barkin</hi> is: And when they ſhall be expoſed to the cenſure of the World as Popiſhly-affected, 'tis not only an ill thing, but it is an ill ſign; 'tis a token that ſome among us are either ig<g ref="char:EOLhyphen"/>norantly, or cunningly, running into that <hi>Popery</hi> which they pretend to hate and fear.</p>
+            <p>This is the mighty Engine that carries on the buſineſs of the Jeſuits, and other Papiſts at this time; for if men can at pleaſure take away the repu<g ref="char:EOLhyphen"/>tation and honour of the Church of <hi>England,</hi> then the <hi>Romiſh</hi> Faction have gained the Field, and have no more to doe but to ſit down and divide the Spoil. Yet ſo it is, we are fallen among a generation of things (whom I was going to call Men) which call every Man Papiſt, and every thing Popiſh, which doth not juſt jump with their little ſelf-conceited Moddels. And this Courſe is ſo irrational and abſurd, as well as irreligious, that I can ſee no reaſon for it, unleſs it be that theſe pretended Proteſtant-zealots car<g ref="char:EOLhyphen"/>ry on the ſame deſign with the Papiſts, and intend to ſhare with them at laſt, as the late <hi>Lambert</hi> who aimed at the Protectorſhip, proves ſince to be a known Papiſt, as Mr. <hi>Oats</hi> informs us.</p>
+            <p n="3">III. 'Tis pretended that this Figure was Condemned by the Court at the <hi>Old Baily:</hi> A ſuggeſtion as far from truth, as the God-father was from the right Name of his Child. It may ſeem ſtrange that the Church-Warden ſhould pretend an order of Court when there was none, and when Sir <hi>George Treby</hi> the Recorder declared, that the proceeding was not grounded upon any Law that he knew of.</p>
+            <p>Yet ſuch is the inſolence of ſome Men, that they dare lay their ill-favor'd
+<pb n="4" facs="tcp:39532:4"/>Brats at whoſe door they pleaſe. In the mean time the Miniſters and Pa<g ref="char:EOLhyphen"/>riſhioners of <hi>All-hallows Barkin</hi> have this Comfort, That they are ſlandered and indited by none but thoſe that have the Confidence to act by ſuch Or<g ref="char:EOLhyphen"/>ders as they never received.</p>
+            <p>This I tender to the publick as an impartial Account of what hath paſſed ſince this buſineſs came upon the Stage; I could have wiſhed with all my heart that the thing had made no noiſe abroad, but ſince it hath taken air, I thought it requiſite that the honeſt Apology ſhould be as open as the un<g ref="char:EOLhyphen"/>juſt Slander.</p>
+            <p>I know how unhandſome it is to interrupt Men of buſineſs with little par<g ref="char:EOLhyphen"/>ticular Concerns of our own, and I very well underſtand that Liberty of Conſcience, and Liberty of the Preſs, are things that have an unhappy in<g ref="char:EOLhyphen"/>fluence upon the Nation; and therefore as I am no Friend (in the preſent wild Notion) to the one, ſo I ſhould hardly have been Guilty of uſing the other, had there not been this too juſt occaſion for it.</p>
+            <p>If this ſhort Relation have not its wiſhed effect in giving ſatisfaction to any that are honeſtly jealous, I ſhall give e're long a fuller Account, ſuch as may clear us from any ſuſpicion of <hi>Popery</hi> that may lurk in any credulous and unwary Breaſt; in the mean time here is</p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:39532:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
